@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408bc6cf-1102-4cab-98b6-2475eb18b36c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cln/devportfolio" beforeDir="false" afterPath="$PROJECT_DIR$/cln/devportfolio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/LICENSE.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/README.md" beforeDir="false" />
@@ -53,6 +54,7 @@
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630519695902</updated>
       <workItem from="1630519698996" duration="3594000" />
+      <workItem from="1630524747752" duration="289000" />
     </task>
     <servers />
   </component>
