@@ -56,6 +56,7 @@
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/scss/styles.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,7 @@
       <updated>1630519695902</updated>
       <workItem from="1630519698996" duration="3594000" />
       <workItem from="1630524747752" duration="11293000" />
-      <workItem from="1631812659889" duration="185000" />
+      <workItem from="1631812659889" duration="1573000" />
     </task>
     <servers />
   </component>
