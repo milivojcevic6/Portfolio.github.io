@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408bc6cf-1102-4cab-98b6-2475eb18b36c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio" beforeDir="false" afterPath="$PROJECT_DIR$/cln/devportfolio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cln/devportfolio/LICENSE.md" beforeDir="false" />
@@ -104,6 +103,7 @@
       <workItem from="1632646990254" duration="11472000" />
       <workItem from="1632837878476" duration="2555000" />
       <workItem from="1633340777911" duration="23000" />
+      <workItem from="1635768383602" duration="33000" />
     </task>
     <servers />
   </component>
