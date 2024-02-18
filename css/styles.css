@@ -520,24 +520,53 @@ footer {
     margin-bottom: 50px
 }
 
+.project-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); /* Adjust the column width as needed */
+    grid-gap: 20px; /* Adjust the gap between projects */
+}
+
+.project-row::before {
+    display: none; /* Hide the ::before pseudo-element */
+}
+
+
 .project {
     position: relative;
     max-width: 900px;
     margin: 0 auto 30px auto;
-    overflow: hidden;
+    /*overflow: hidden;*/
     background: #fff;
     border-radius: 4px
 }
 
+@media only screen and (min-width: 751px) {
+
+    .project {
+        min-width: 500px;
+    }
+
+}
+
 .project-image {
-    float: left
+    float: left;
+    
+    /*max-width: 50%;*/
+    /*width: 300px;*/
+    /*height = 300px;*/
+}
+
+.project-image img {
+    width: 300px;
+    padding: 5px 10px 10px 5px;
 }
 
 .project-info {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-left: 300px;
+    /*float: right;*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    /*margin-left: 300px;*/
     padding: 15px
 }
 
@@ -551,7 +580,9 @@ footer {
 .project-info p {
     color: #74808a;
     margin: 0 0 15px 0;
-    font-size: 0.9em
+    font-size: 0.9em;
+    text-align: justify;
+    /*padding-left: 305px;*/
 }
 
 .no-image .project-info {
